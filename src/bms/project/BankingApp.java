@@ -6,7 +6,7 @@ import static java.lang.Class.forName;
 public class BankingApp {
 	    private static final String url = "jdbc:mysql://localhost:3306/emp";
 	    private static final String username = "root";
-	    private static final String password = "tejas";
+	    private static final String password = "vaish";
 
 	    public static void main(String[] args) throws ClassNotFoundException, SQLException {
 	        try{
